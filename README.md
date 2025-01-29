@@ -10,7 +10,9 @@ I enjoy coding in general, it's fun to experiment with new languages and getting
 Personally, i haven't tried modifying open-source projects, but i'm a big fan of being able to look into the source code.  
 Most of my projects will probably be open-source. I just have to be careful not to leak any important information. (wish me luck! 🙏)
 
-Anyways, if you want to explore some other stuff about me, check out my website! [frxctured.com](https://frxctured.com)  
+Anyways, if you want to explore some other stuff about me, check out my website!  
+[frxctured.com](https://frxctured.com) or
+[terminal.frxctured.com](https://terminal.frxctured.com)
 <br>  
 <div align="center">
   <h3>What I'm Listening To:</h3>
@@ -36,7 +38,7 @@ But if you don't own/use discord, i'm also available via e-mail: business@frxctu
 # Stats
 <p align="center">
 	<img src="https://github-readme-stats.vercel.app/api?username=Frxctured&show_icons=true&theme=omni&hide_border=true" height="195px"/>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frxctured&layout=donut&theme=omni&hide_border=true" height="195px"/>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frxctured&layout=donut&langs_count=5&theme=omni&hide_border=true" height="195px"/>
 </p>
 <br>
 <p align="center">

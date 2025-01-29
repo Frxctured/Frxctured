@@ -10,10 +10,15 @@ I enjoy coding in general, it's fun to experiment with new languages and getting
 Personally, i haven't tried modifying open-source projects, but i'm a big fan of being able to look into the source code.  
 Most of my projects will probably be open-source. I just have to be careful not to leak any important information. (wish me luck! 🙏)
 
-Anyways, if you want to explore some other stuff about me, check out my website! [frxctured.com](https://frxctured.com)
+Anyways, if you want to explore some other stuff about me, check out my website! [frxctured.com](https://frxctured.com)  
+<br>  
+<div align="center">
+  <h3>What I'm Listening To:</h3>
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3qoysh31vk87wgh4j789k5djd&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=true&bar_color=634eb1&bar_color_cover=false" />
+  </a>
+</div>
 
-### What i'm listening to:
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=3qoysh31vk87wgh4j789k5djd&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=true&bar_color=634eb1&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 # Socials
 <a href="https://discordapp.com/users/627195082499555348">

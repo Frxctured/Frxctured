@@ -12,6 +12,9 @@ Most of my projects will probably be open-source. I just have to be careful not 
 
 Anyways, if you want to explore some other stuff about me, check out my website! [frxctured.com](https://frxctured.com)
 
+### What i'm listening to:
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=3qoysh31vk87wgh4j789k5djd&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=true&bar_color=634eb1&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
 # Socials
 <a href="https://discordapp.com/users/627195082499555348">
 	<img align="center" height="36" src="https://static.vecteezy.com/system/resources/previews/018/930/718/original/discord-logo-discord-icon-transparent-free-png.png" />Discord

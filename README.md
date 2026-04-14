@@ -24,15 +24,15 @@ While my profile might look a bit quiet right now, it's because I spend a lot of
 ## 🎮 Beyond Coding
 * **Gaming:** Big fan of horror games (recently 100%ed Resident Evil Requiem), sandbox survival (Minecraft, Terraria), and story-rich games (GTA 5). I generally avoid pure sandbox and most turn-based games. Always open to game recommendations!
 * **Music:** I love Rock, Electronic, and Pop (especially Shoegaze, Hyperpop, and Glitch). Favorite artists include:  
- [Amotti](https://open.spotify.com/intl-de/artist/2HZdGdSg7eDyKsslJfWjtv?si=5e25b4ac532d437a),  
- [Thorne](https://open.spotify.com/intl-de/artist/5v3DEzWuRDahVpFHd4Iy8c?si=b12b9b445d394d04),   
- [Otuka](https://open.spotify.com/intl-de/artist/2VxINnkFPw2Sd6MiyKxN4B?si=f6ecdbbbc8e64045) /
- [Jades](https://open.spotify.com/intl-de/artist/5cpCYa1BaBS52GrkmLob1u?si=48e8664c68954d99) /
- [Worm](https://open.spotify.com/intl-de/artist/5EQG2RguHLKRG8DbwJpngv?si=a76207e9bdca4224) /
- [Jo](https://open.spotify.com/intl-de/artist/18lTlQvsai2RSybawnrjGd?si=090cc3d87d234315) (yes it's all the same guy on different accounts 🥲),  
- [Bunii](https://open.spotify.com/intl-de/artist/6mx3Y8XNLPaS2pjJbQFq3W?si=8ba1cb75ddcc471c),  
- and [Juno](https://open.spotify.com/intl-de/artist/5YfZjShz51htJsfQP0YceU?si=5ea86b5c35e24013).  
- Check out my [Spotify Playlist](https://open.spotify.com/playlist/6aJkygPZVLqSrqbQPRsl3K?si=c0a41d37198449ee).  
+ [Amotti](https://open.spotify.com/intl-de/artist/2HZdGdSg7eDyKsslJfWjtv),  
+ [Thorne](https://open.spotify.com/intl-de/artist/5v3DEzWuRDahVpFHd4Iy8c),   
+ [Otuka](https://open.spotify.com/intl-de/artist/2VxINnkFPw2Sd6MiyKxN4B) /
+ [Jades](https://open.spotify.com/intl-de/artist/5cpCYa1BaBS52GrkmLob1u) /
+ [Worm](https://open.spotify.com/intl-de/artist/5EQG2RguHLKRG8DbwJpngv) /
+ [Jo](https://open.spotify.com/intl-de/artist/18lTlQvsai2RSybawnrjGd) (yes it's all the same guy on different accounts 🥲),  
+ [Bunii](https://open.spotify.com/intl-de/artist/6mx3Y8XNLPaS2pjJbQFq3W),  
+ and [Juno](https://open.spotify.com/intl-de/artist/5YfZjShz51htJsfQP0YceU).  
+ Check out my [Spotify Playlist](https://open.spotify.com/playlist/6aJkygPZVLqSrqbQPRsl3K).  
 
  <br>
 

@@ -25,7 +25,7 @@ While my profile might look a bit quiet right now, it's because I spend a lot of
 * **Gaming:** Big fan of horror games (recently 100%ed Resident Evil Requiem), sandbox survival (Minecraft, Terraria), and story-rich games (GTA 5). I generally avoid pure sandbox and most turn-based games. Always open to game recommendations!
 * **Music:** I love Rock, Electronic, and Pop (especially Shoegaze, Hyperpop, and Glitch). Favorite artists include:  
  [Amotti](https://open.spotify.com/intl-de/artist/2HZdGdSg7eDyKsslJfWjtv),  
- [Thorne](https://open.spotify.com/intl-de/artist/5v3DEzWuRDahVpFHd4Iy8c),   
+ [7thorne](https://open.spotify.com/intl-de/artist/5v3DEzWuRDahVpFHd4Iy8c),   
  [Otuka](https://open.spotify.com/intl-de/artist/2VxINnkFPw2Sd6MiyKxN4B) /
  [Jades](https://open.spotify.com/intl-de/artist/5cpCYa1BaBS52GrkmLob1u) /
  [Worm](https://open.spotify.com/intl-de/artist/5EQG2RguHLKRG8DbwJpngv) /

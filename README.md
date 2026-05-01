@@ -16,10 +16,11 @@ I'm a developer who loves open-source software, clean code, and experimenting wi
 * Kubernetes
 
 ## 💻 My Projects
-While my profile might look a bit quiet right now, it's because I spend a lot of time experimenting and trying out random ideas. However, I recently published my first fully realized open-source project!
 
 * **[Simple Checklist](https://github.com/Frxctured/simple-checklist) | [Live Demo](https://frxctured.github.io/simple-checklist/)**  
   A no-nonsense, privacy-focused checklist application that just works. I built this because I wanted a clean space to sort things out without ads, tracking, or annoying logins. Everything is stored locally in your browser. It features an intentionally flat and minimalist UI, drawing inspiration from modern LLM chat interfaces.
+* **[Roblox Github Badge](https://github.com/Frxctured/Roblox-Github-Profile-Badge) | [Live Demo](https://frxctured.com/roblox-badge)**  
+  A badge for your GitHub README that displays your online status on Roblox. It can optionally display the current game you're in, by following @github_profile on Roblox and setting your status visibility to at least "Friends and people i follow". I'm currently using it in my README ;)
 
 ## 🎮 Beyond Coding
 * **Gaming:** Big fan of horror games, sandbox survival (think Minecraft or Terraria), and story-rich games (GTA 5). I generally avoid pure sandbox and most turn-based games. I also spend a lot of my time on Roblox (tons of games to try, although some are low quality). Always open to game recommendations!

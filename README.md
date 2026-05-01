@@ -18,7 +18,7 @@ I'm a developer who loves open-source software, clean code, and experimenting wi
 ## 💻 My Projects
 
 * **[Simple Checklist](https://github.com/Frxctured/simple-checklist) | [Live Demo](https://frxctured.github.io/simple-checklist/)**  
-  A no-nonsense, privacy-focused checklist application that just works. I built this because I wanted a clean space to sort things out without ads, tracking, or annoying logins. Everything is stored locally in your browser. It features an intentionally flat and minimalist UI, drawing inspiration from modern LLM chat interfaces.
+  A no-nonsense checklist application that just works. I built this because I wanted a clean space to sort things out without ads, tracking, or annoying logins. It features an intentionally flat and minimalist UI, drawing inspiration from modern LLM chat interfaces.
 * **[Roblox Github Badge](https://github.com/Frxctured/Roblox-Github-Profile-Badge) | [Live Demo](https://frxctured.com/roblox-badge)**  
   A badge for your GitHub README that displays your online status on Roblox. It can optionally display the current game you're in, by following @github_profile on Roblox and setting your status visibility to at least "Friends and people i follow". I'm currently using it in my README ;)
 

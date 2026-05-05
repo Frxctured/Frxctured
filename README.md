@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github.com/Frxctured/Frxctured/blob/main/media/Frxctured.gif">
+    <img src="https://raw.githubusercontent.com/Frxctured/Frxctured/main/media/Frxctured.gif">
 </div>
 
 # Hi there, I'm Frxctured! 👋

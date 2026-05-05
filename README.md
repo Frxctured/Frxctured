@@ -40,11 +40,11 @@ I'm a developer who loves open-source software, clean code, and experimenting wi
 
  <br>
 
-<p align="center">
+<div align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=3qoysh31vk87wgh4j789k5djd&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3qoysh31vk87wgh4j789k5djd&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=d339fe&bar_color_cover=false">
   </a>
-</p>
+</div>
 
 ## 📫 Contact me!
 * **Email:** [frxctured@frxctured.com](mailto:frxctured@frxctured.com)

@@ -47,7 +47,7 @@ I'm a developer who loves open-source software, clean code, and experimenting wi
 * **Email:** [frxctured@frxctured.com](mailto:frxctured@frxctured.com)
 * **Website:** [frxctured.com](https://frxctured.com)
 * **YouTube:** [@Frxctured0](https://youtube.com/@Frxctured0)
-* **Discord:** @frxctured0
+* **Discord:** [@frxctured0](https://discord.com/users/627195082499555348)
 
 
 ---

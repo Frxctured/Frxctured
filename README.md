@@ -37,9 +37,6 @@ I'm a developer who loves open-source software, clean code, and experimenting wi
  [Bunii](https://open.spotify.com/intl-de/artist/6mx3Y8XNLPaS2pjJbQFq3W), 
  and [Juno](https://open.spotify.com/intl-de/artist/5YfZjShz51htJsfQP0YceU).  
  Check out my [Spotify Playlist](https://open.spotify.com/playlist/6aJkygPZVLqSrqbQPRsl3K).  
-
- <br>
-
 <div align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=3qoysh31vk87wgh4j789k5djd&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3qoysh31vk87wgh4j789k5djd&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=d339fe&bar_color_cover=false">

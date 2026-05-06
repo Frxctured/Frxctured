@@ -7,9 +7,9 @@
 I'm a developer who loves open-source software, clean code, and experimenting with new technologies. I appreciate the collaboration and security that comes with open code, and I strive to build things that look and feel good (especially with cool, clean UI).
 
 ## 🛠️ Tech Stack & Tools
-* **Languages:** Python, Rust (and always exploring others)
+* **Languages:** Python, TypeScript (learning)
 * **Environment:** Linux (CachyOS), Zsh
-* **Editor:** VS Code
+* **Tools:** VS Code
 
 ## 🚀 Currently Learning
 * Docker

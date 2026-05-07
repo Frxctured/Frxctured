@@ -24,8 +24,14 @@ I'm a developer who loves open-source software, clean code, and experimenting wi
 
 ## 🎮 Beyond Coding
 * **Gaming:** Big fan of horror games, sandbox survival (think Minecraft or Terraria), and story-rich games (GTA 5). I generally avoid pure sandbox and most turn-based games. I also spend a lot of my time on Roblox (tons of games to try, although some are low quality). Always open to game recommendations!
-<div align="center"><a href="https://api.frxctured.com/roblox/github-badge/redirect/frxctured0" target="_blank"><img src="https://api.frxctured.com/roblox/github-badge/user/frxctured0"></a></div>  
-<br>
+<div align="center">
+    <a href="https://api.frxctured.com/roblox/github-badge/redirect/frxctured0" target="_blank">
+        <img src="https://api.frxctured.com/roblox/github-badge/user/frxctured0">
+    </a>
+    <p>
+        ^^^ made by me ^^^  
+    </p>
+</div>  
 
 * **Music:** I love Rock, Electronic, and Pop (especially Shoegaze, Hyperpop, and Glitch). Favorite artists include:  
  [Amotti](https://open.spotify.com/intl-de/artist/2HZdGdSg7eDyKsslJfWjtv), 

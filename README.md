@@ -12,8 +12,8 @@ I'm a developer who loves open-source software, clean code, and experimenting wi
 * **Tools:** VS Code
 
 ## 🚀 Currently Learning
-* Docker
-* Kubernetes
+* Compression, Encoding, Encryption
+* NoSQL Databases (MongoDB)
 
 ## 💻 My Projects
 

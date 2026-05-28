@@ -25,8 +25,8 @@ I'm a developer who loves open-source software, clean code, and experimenting wi
 ## 🎮 Beyond Coding
 * **Gaming:** Big fan of horror games, sandbox survival (think Minecraft or Terraria), and story-rich games (GTA 5). I generally avoid pure sandbox and most turn-based games. I also spend a lot of my time on Roblox (tons of games to try, although some are low quality). Always open to game recommendations!
 <div align="center">
-    <a href="https://api.frxctured.com/roblox/github-badge/redirect/frxctured0" target="_blank">
-        <img src="https://api.frxctured.com/roblox/github-badge/user/frxctured0">
+    <a href="https://api.frxctured.com/roblox/github-badge/redirect/black_pawzz09" target="_blank">
+        <img src="https://api.frxctured.com/roblox/github-badge/user/black_pawzz09">
     </a>
     <p>
         ^^^ made by me ^^^  

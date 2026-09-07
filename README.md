@@ -2,9 +2,9 @@
     <img src="https://raw.githubusercontent.com/Frxctured/Frxctured/main/media/Frxctured.gif">
 </div>
 
-# Hi there, I'm Frxctured! 👋
+# Hi there
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 * **Languages:** Currently getting into intel-ASM, trying low level languages like c, c++, rust
 * **Environment:** Linux (CachyOS), fish shell
 * **Tools:** VS Code

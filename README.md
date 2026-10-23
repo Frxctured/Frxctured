@@ -1,51 +1,19 @@
 <div align="center">
-    <img src="https://raw.githubusercontent.com/Frxctured/Frxctured/main/media/Frxctured.gif">
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="Hellooo, I&#x27;m Frxctured"></picture>
+
+<a href="https://discord.com/users/627195082499555348"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-1-dark.svg"><img src="assets/social-1-light.svg" width="auto" alt="discord"></picture></a>&nbsp;<a href="https://instagram.com/frxctured0"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-2-dark.svg"><img src="assets/social-2-light.svg" width="auto" alt="instagram"></picture></a>&nbsp;<a href="https://steamcommunity.com/id/frxctured0/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-3-dark.svg"><img src="assets/social-3-light.svg" width="auto" alt="steam"></picture></a>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg"><img src="assets/about-light.svg" width="100%" alt="About me"></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
+
+<a href="https://github.com/Frxctured/lyritty"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-lyritty-dark.svg"><img src="assets/project-lyritty-light.svg" width="49%" alt="lyritty"></picture></a>&nbsp;<a href="https://github.com/Frxctured/pymaze"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-pymaze-dark.svg"><img src="assets/project-pymaze-light.svg" width="49%" alt="pymaze"></picture></a>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><img src="assets/wave-light.svg" width="100%" alt=""></picture>
+
+<a href="https://github.com/Frxctured?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-1-dark.svg"><img src="assets/button-1-light.svg" width="auto" alt="All repositories"></picture></a>
+
+<a href="https://metawka.github.io/expressive-profile/?from=Frxctured"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/credit-dark.svg"><img src="assets/credit-light.svg" width="auto" alt="Made with Expressive Profile"></picture></a>
+
 </div>
-
-# Hi there
-
-## Tech Stack & Tools
-* **Languages:** Currently getting into intel-ASM, trying low level languages like c, c++, rust
-* **Environment:** Linux (CachyOS), fish shell
-* **Tools:** VS Code
-
-## Currently Learning
-* Cybersecurity stuff (doing the courses in order on [pwn.college](https://pwn.college)
-
-## My Projects  
-* **[Roblox Github Badge](https://github.com/Frxctured/Roblox-Github-Profile-Badge) | [Demo](https://frxctured.com/roblox-badge)**  
-  A badge for your GitHub README that displays your online status on Roblox. It can optionally display the current game you're in, by following @github_profile on Roblox and setting your status visibility to at least "Friends and people i follow". I'm currently using it in my README
-
-## Hobbies
-* **Gaming:** I love gaming. All of it is really common, but my fav games are Minecraft, Terraria, GTA5, RE9 (requiem), Stardew Valley, Subnautica series, and Roblox (what i play most)
-
-<div align="center">
-    <a href="https://api.frxctured.com/roblox/github-badge/redirect/black_pawzz09" target="_blank">
-        <img src="https://api.frxctured.com/roblox/github-badge/user/black_pawzz09">
-    </a>
-    <p>
-        ^^^ made by me ^^^  
-    </p>
-</div>  
-
-* **Music:** I really love shoegaze and similar stuff (see what i mean on my [playlist](https://open.spotify.com/playlist/6aJkygPZVLqSrqbQPRsl3K))
- [Amotti](https://open.spotify.com/intl-de/artist/2HZdGdSg7eDyKsslJfWjtv), 
- [7thorne](https://open.spotify.com/intl-de/artist/5v3DEzWuRDahVpFHd4Iy8c), 
- [Otuka](https://open.spotify.com/intl-de/artist/2VxINnkFPw2Sd6MiyKxN4B) (And his alts)  
-
-<div align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=3qoysh31vk87wgh4j789k5djd&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3qoysh31vk87wgh4j789k5djd&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=d339fe&bar_color_cover=false">
-  </a>
-</div>
-
-## Some Contacts
-* **Email:** [frxctured@frxctured.com](mailto:frxctured@frxctured.com)  
-* **Website:** [frxctured.com](https://frxctured.com)
-  
-Add
-* **Discord:** [@frxctured0](https://discord.com/users/627195082499555348)  
-* **Roblox:** [@frxctured0](https://roblox.com/users/920740863/profile) (main) or [@black_pawzz09](https://roblox.com/users/10957844286/profile) (alt)  
-
----
-meow

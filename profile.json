@@ -1,0 +1,175 @@
+{
+  "version": 1,
+  "login": "Frxctured",
+  "seed": "#B36CFF",
+  "seedFromAvatar": false,
+  "scheme": "tonalSpot",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "about",
+    "stack",
+    "projects",
+    "stats",
+    "streak",
+    "wave",
+    "buttons"
+  ],
+  "hidden": [
+    "streak",
+    "stats"
+  ],
+  "hero": {
+    "greeting": "Hellooo, I'm",
+    "name": "",
+    "subtitle": "I make random things that are usually just for fun and provide no real benefit to the world",
+    "typing": true,
+    "avatarShape": "pill",
+    "chips": [
+      {
+        "icon": "location_on",
+        "label": "Zurich, Switzerland"
+      },
+      {
+        "icon": "code",
+        "label": "Python · C# · Frontend stuff"
+      }
+    ]
+  },
+  "about": {
+    "title": "About me",
+    "items": [
+      {
+        "icon": "person",
+        "label": "Fullstack Developer"
+      },
+      {
+        "icon": "palette",
+        "label": "I love great UI/UX"
+      },
+      {
+        "icon": "stadia_controller",
+        "label": "I play Terraria 👀"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Tech stack",
+    "groups": [
+      {
+        "title": "Languages",
+        "items": [
+          {
+            "icon": "brand:python",
+            "label": "Python"
+          },
+          {
+            "icon": "brand:cplusplus",
+            "label": "C# (No C# logo?)"
+          },
+          {
+            "icon": "brand:typescript",
+            "label": "TypeScript"
+          }
+        ]
+      },
+      {
+        "title": "Tools",
+        "items": [
+          {
+            "icon": "brand:git",
+            "label": "Git"
+          },
+          {
+            "icon": "brand:claudecode",
+            "label": "Claude Code"
+          },
+          {
+            "icon": "brand:vscodium",
+            "label": "VSCode/Codium"
+          }
+        ]
+      },
+      {
+        "title": "Environment",
+        "items": [
+          {
+            "icon": "brand:cachyos",
+            "label": "CachyOS (Linux)"
+          },
+          {
+            "icon": "brand:fishshell",
+            "label": "Fish shell"
+          },
+          {
+            "icon": "brand:niri",
+            "label": "Niri (Inir dotfiles are so good)"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "manual",
+    "repos": [
+      "lyritty",
+      "pymaze"
+    ],
+    "overrides": {
+      "pymaze": {
+        "icon": "brand:python"
+      }
+    },
+    "empty": "No description yet.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub activity",
+    "stars": "Stars earned",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my repositories",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:discord",
+        "url": "https://discord.com/users/627195082499555348"
+      },
+      {
+        "icon": "brand:instagram",
+        "url": "https://instagram.com/frxctured0"
+      },
+      {
+        "icon": "brand:steam",
+        "url": "https://steamcommunity.com/id/frxctured0/"
+      }
+    ],
+    "variant": "chip",
+    "fill": "brand",
+    "card": false
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "book_2",
+        "label": "All repositories",
+        "url": "",
+        "style": "tonal"
+      }
+    ],
+    "card": false
+  }
+}

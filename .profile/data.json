@@ -1,0 +1,208 @@
+{
+ "key": "bb7a69fa",
+ "stars": 0,
+ "contributions": 67,
+ "repos": 7,
+ "followers": 2,
+ "languages": [
+  [
+   "CSS",
+   41022
+  ],
+  [
+   "JavaScript",
+   15496
+  ],
+  [
+   "Python",
+   14985
+  ],
+  [
+   "HTML",
+   9422
+  ],
+  [
+   "PHP",
+   3508
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 0,
+    "day": 4,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 5,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 6,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 7,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 8,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 9,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 10,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 14,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 15,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 16,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 17,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 21,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 22,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 23,
+    "today": true
+   },
+   null
+  ]
+ ],
+ "streak": {
+  "current": 1,
+  "longest": 3
+ },
+ "pins": [],
+ "all": [
+  {
+   "name": "Frxctured.github.io",
+   "url": "https://github.com/Frxctured/Frxctured.github.io",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "CSS",
+   "topics": []
+  },
+  {
+   "name": "pymaze",
+   "url": "https://github.com/Frxctured/pymaze",
+   "text": "python maze game thingy",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "lyritty",
+   "url": "https://github.com/Frxctured/lyritty",
+   "text": "A fun command line tool which displays word by word lyrics in a style similar to tty-clock. Works really well in combination with cava",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "Roblox-Github-Profile-Badge",
+   "url": "https://github.com/Frxctured/Roblox-Github-Profile-Badge",
+   "text": "A cool badge to display your online status on roblox",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "spotify-github-profile",
+   "url": "https://github.com/Frxctured/spotify-github-profile",
+   "text": "Show your Spotify playing on your Github profile",
+   "fork": true,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "simple-checklist",
+   "url": "https://github.com/Frxctured/simple-checklist",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "CSS",
+   "topics": []
+  },
+  {
+   "name": "Frxctured",
+   "url": "https://github.com/Frxctured/Frxctured",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "CSS",
+   "topics": []
+  }
+ ]
+}

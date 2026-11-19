@@ -1,6 +1,6 @@
 {
- "key": "a6533fa9",
- "stars": 7,
+ "key": "5d217d2b",
+ "stars": 8,
  "contributions": 181,
  "repos": 8,
  "followers": 2,
@@ -146,7 +146,7 @@
    "url": "https://github.com/Frxctured/roblox-vfxmith",
    "text": "Make Roblox VFX like experienced artists do: a library of ~1,200 real open-source effects with exact layer values, effect-type studies, a Studio build/capture/review loop. Claude Code plugin.",
    "fork": false,
-   "stars": 7,
+   "stars": 8,
    "language": "Luau",
    "topics": []
   },

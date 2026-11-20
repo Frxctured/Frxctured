@@ -1,5 +1,5 @@
 {
- "key": "5d217d2b",
+ "key": "348c355",
  "stars": 8,
  "contributions": 181,
  "repos": 8,
@@ -129,9 +129,13 @@
    {
     "c": 0,
     "day": 19,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 20,
     "today": true
    },
-   null,
    null
   ]
  ],
